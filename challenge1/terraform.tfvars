@@ -1,0 +1,8 @@
+vpc_name            =   "test"
+aws_access_key      =   "xx-xx-xx-xx"
+aws_secret_key      =   "xx-xx-xx-xx"
+public_subent1_name =   "mj_piblic_sub1"
+public_subent2_name =   "mj_piblic_sub2"
+private_subent_name =   "mj_private_sub1"
+db_username         =   "admin"
+db_userpasswd       =   "password12345@!"
